@@ -51,8 +51,9 @@ Accuracy,	Precision	and	Recall,	F1-Score,	ROC-AUC,	Model	Training	time	Deploymen
 	
 ## Conclusion: 
 
+### The best model is RandomForest with an Presicion score of  0.8584720861900098
 ### Notice period affects the most whether or not candidate will join the company.
 ### If offered hike is lower than expected than candidate is more likely to withdraw from the application
-### LOB and joning bonus affect the likelihoog of the candidates. so keep this in mind.
+### LOB and joning bonus affect the likelihood of the candidates. so keep this in mind.
 
 

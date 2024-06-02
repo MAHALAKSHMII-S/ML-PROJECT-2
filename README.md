@@ -43,7 +43,7 @@ Python	&	Machine	language	libraries.
 
 ## Analytics	Approach:	
  
-Machine	Learning	(Logistic	Regression,	KNN	,	SVC,	Decision	Tree,	Random	Forest	)	
+Machine	Learning	(Logistic	Regression,	KNN	,	SVM,	Decision	Tree,	Random	Forest	)	
 
 ## KPIs:	
 
